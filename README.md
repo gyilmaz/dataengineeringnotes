@@ -1,0 +1,2 @@
+# dataengineeringnotes
+Notes from learning
